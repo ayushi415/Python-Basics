@@ -1,0 +1,43 @@
+Trip_ID,start_area,end_area,distance_km,time_of_day
+TRIP_00001,Kalkaji,9.44,Night,Weekday
+TRIP_00002,Kalkaji,2.15,Night,Weekend
+TRIP_00003,Janakpuri,Model Town,14.54,Morning Peak
+TRIP_00004,Punjabi Bagh,11.86,Night,Weekday
+TRIP_00005,Rohini,Chandni Chowk,20.26,Afternoon
+TRIP_00006,Dwarka,5.26,Evening Peak,Weekend
+TRIP_00007,Noida Sector 18,8.57,Morning Peak,Weekend
+TRIP_00008,Rohini,Evening Peak,Weekday
+TRIP_00009,IGI Airport,11.0,Evening Peak
+TRIP_00010,Vasant Kunj,13.24,Evening Peak,Weekday
+TRIP_00011,Chandni Chowk,Pitampura,11.29,Morning Peak
+TRIP_00204,AIIMS,Saket,4.77,Evening Peak
+TRIP_00205,Punjabi Bagh,Hauz Khas,Evening Peak
+TRIP_00206,Greater Kailash,14.87,Morning Peak,Weekday
+TRIP_00207,Model Town,19.14,Weekday
+TRIP_00208,Nehru Place,Kalkaji,1.51,Morning Peak
+TRIP_00309,Pitampura,Chandni Chowk,11.29,Clear
+TRIP_00310,Connaught Place,Okhla,12.39,Evening Peak
+TRIP_00311,Civil Lines,9.27,Afternoon
+TRIP_00312,Vasant Kunj,Greater Kailash,8.11,Evening Peak
+TRIP_00313,Greater Kailash,Afternoon,Weekend
+TRIP_01275,Preet Vihar,Noida Sector 18,8.57,Evening Peak
+TRIP_01276,Preet Vihar,Okhla,12.45,Morning Peak
+TRIP_01277,Saket,Lajpat Nagar,5.89,Evening Peak
+TRIP_01278,Civil Lines,Hauz Khas,14.76,Morning Peak
+TRIP_01279,AIIMS,s9.61,Evening Peak
+TRIP_01280,Civil Lines,Janakpuri,14.89,Evening Peak
+TRIP_01281,Punjabi Bagh,Lajpat Nagar,15.06,Morning Peak
+TRIP_01282,Vasant Kunj,Hauz Khas,5.36,Morning Peak
+TRIP_01283,Nehru Place,Okhla,2.67,Afternoon
+TRIP_01284,Shahdara,Janakpuri,20.44,Morning Peak
+TRIP_01285,Nehru Place,Shahdara,14.22,Afternoon
+TRIP_01286,Kalkaji,Mayur Vihar,9.67,Evening Peak
+TRIP_01287,Lajpat Nagar,Nehru Place,2.8,Night
+TRIP_01288,Shahdara,Pitampura,15.65,Evening Peak
+TRIP_01289,Lajpat Nagar,Model Town,16.71,Night
+TRIP_01290,Shahdara,Saket,18.39,Evening Peak
+TRIP_01291,IGI Airport,AIIMS,10.81,Afternoon
+TRIP_01292,Dwarka,Okhla,23.01,Morning Peak
+TRIP_01293,Janakpuri,Hauz Khas,13.61,Night
+TRIP_01294,Noida Sector 18,Janakpuri,23.96,Night
+TRIP_01295,Noida Sector 18,Pitampura,24.06,Evening Peak
